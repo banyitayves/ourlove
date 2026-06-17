@@ -7,19 +7,19 @@ const memories = [
     title: "First Date",
     description: "Coffee, laughter, and the first spark of something unforgettable.",
     date: "June 17, 2023",
-    image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    image: "/images/yves.jpg",
   },
   {
     title: "Weekend Getaway",
     description: "A cozy trip with sunset walks and late-night talks.",
     date: "September 2023",
-    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
+    image: "/images/girlfriend.jpg",
   },
   {
     title: "City Adventure",
     description: "Discovering new streets, favorite cafés, and a perfect day together.",
     date: "February 2024",
-    image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    image: "/images/yves.jpg",
   },
 ];
 

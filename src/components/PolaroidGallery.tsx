@@ -7,17 +7,17 @@ const gallery = [
   {
     title: "Cozy Night",
     caption: "Where we stayed up talking until sunrise.",
-    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=700&q=80",
+    image: "/images/girlfriend.jpg",
   },
   {
     title: "Road Trip",
     caption: "Your laugh in the passenger seat made the miles melt away.",
-    image: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=700&q=80",
+    image: "/images/yves.jpg",
   },
   {
     title: "Sweet Picnic",
     caption: "A perfect afternoon under the sun with our favorite snacks.",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=700&q=80",
+    image: "/images/girlfriend.jpg",
   },
 ];
 
